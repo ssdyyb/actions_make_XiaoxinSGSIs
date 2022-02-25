@@ -1,7 +1,7 @@
 {
  "rom_url": "https://mirrors.lolinet.com/firmware/lenovo/l70081/official/L70081_ROW_SECURE_USER_Q00017.0_R_ROW_12.5.188_ST_210819_qpst.zip",
   "rom_name": "L70081_ROW_SECURE_USER_Q00017.0_R_ROW_12.5.188_ST_210819_qpst.zip",
-  "pack_sgsi": "doge.zip",
+  "pack_sgsi": "XiaoxinSGSIs_Pinkdoge.7z",
   "make_miui": false,
   "make_flyme": false,
   "make_coloros": false,
